@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cd55dc5c-9a53-e33e-0518-28b983c31752
 ---
@@ -60,7 +63,7 @@ Ashton, T. S. _The Industrial Revolution, 1760-1830_. London, United Kingdom: Ox
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Industrialization
 {{< tdclose >}}
 
@@ -138,7 +141,7 @@ Temin, Peter. "Free Land and Federalism: A Synoptic View of American Economic Hi
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Institutions
 {{< tdclose >}}
 
@@ -296,7 +299,7 @@ Angrist, J. "[How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Labor topics
 {{< tdclose >}}
 
