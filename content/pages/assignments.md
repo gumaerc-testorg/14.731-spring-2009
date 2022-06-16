@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the research proposal and oral presentation
+  assignments of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,9 +16,9 @@ Research proposals should discuss the question, the data, and the methodology. T
 
 All work is courtesy of 14.731 students and is used with permission.
 
-Measuring the Effect of Consumption and Human Capital Development on Industrialization ([PDF]({{< baseurl >}}/resources/mit14_731s09_sw01))
+Measuring the Effect of Consumption and Human Capital Development on Industrialization ({{% resource_link e1e53ce8-6925-937a-9a15-4ba806940d09 "PDF" %}})
 
-How New Technologies and Ideas Could Have Led to Shorter Work Days for Low Income Earners ([PDF]({{< baseurl >}}/resources/mit14_731s09_sw02))
+How New Technologies and Ideas Could Have Led to Shorter Work Days for Low Income Earners ({{% resource_link 1647251f-d137-851d-6ec5-5fd9b60b6911 "PDF" %}})
 
 Oral Presentation
 -----------------
