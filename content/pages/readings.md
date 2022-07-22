@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings assigned for each session
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cd55dc5c-9a53-e33e-0518-28b983c31752
 ---
@@ -60,7 +65,7 @@ Ashton, T. S. _The Industrial Revolution, 1760-1830_. London, United Kingdom: Ox
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Industrialization
 {{< tdclose >}}
 
@@ -138,7 +143,7 @@ Temin, Peter. "Free Land and Federalism: A Synoptic View of American Economic Hi
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Institutions
 {{< tdclose >}}
 
@@ -296,7 +301,7 @@ Angrist, J. "[How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Labor topics
 {{< tdclose >}}
 
@@ -349,7 +354,7 @@ Migration
 {{< tdopen >}}
 
 
-Davis, Donald R., and David E. Weinstein. "[Bones, Bombs, and Break Points: The Geography of Economic Activity](http://ideas.repec.org/p/nbr/nberwo/8517.html)." _American Economic Review_ 92, no. 5 (2002): 1269-1289. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.columbia.edu/~drd28/BBB.pdf))
+Davis, Donald R., and David E. Weinstein. "[Bones, Bombs, and Break Points: The Geography of Economic Activity](http://ideas.repec.org/p/nbr/nberwo/8517.html)." _American Economic Review_ 92, no. 5 (2002): 1269-1289. ([PDF](http://www.columbia.edu/~drd28/BBB.pdf))
 
 Hornbeck, Richard. "Quantifying Long-term Adjustment to Environmental Change: Evidence from the American Dust Bowl." Mimeograph, Massachusetts Institute of Technology, 2008.
 
